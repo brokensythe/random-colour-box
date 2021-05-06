@@ -1,0 +1,12 @@
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.square {
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
